@@ -1,0 +1,53 @@
+/*
+ Theme Name:   Twenty Fourteen Child
+ Theme URI:    http://example.com/twenty-fourteen-child/
+ Description:  Twenty Fourteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     twentyfourteen
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fourteen-child
+*/
+
+@import url('bootstrap.css');
+@import url('bootstrap-theme.css');
+@import url('jquery-ui-1.10.4.custom.css');
+
+.navbar-header, .navbar-default, .navbar-collapse, .container-gray{
+	background-color: #d3d3d3; 
+}
+
+/*.panel-body{
+	border:1px solid;
+}*/
+
+.list-group-item{
+	height: 55px;
+}
+
+.btn-body{
+	width:250px;
+}
+
+.panel-footer{
+	text-align:center;
+}
+
+.ngViewport {
+    white-space: normal;
+    min-height: 285px !important;
+}
+.gridStyle {
+    border: 1px solid rgb(212, 212, 212);
+}
+.ngCell  {
+    ext-align: center;
+}
+.ngHeaderContainer {
+    text-align: center;
+}
+.btn-lost{
+	background-color:red; 
+	color:white;	
+}
