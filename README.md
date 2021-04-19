@@ -31,11 +31,10 @@ for database management (retrieve.php, submit.php, update.php), which are locate
 *******************************************************************************************************************
 
 ## Used Tools:
-
-Sublime Text 2 for coding.
-WAMP as application server platform. MyPHPAdmin was used for server-side managing
-Wordpress 4.0 as the Content Manager System and to provide back-end access and administrator privileges
-Bootstrap 3.2.0 as a front-end workframe
-AngularJS as a client-side model-view-controller
-JQuery as a client-side scripting language
-JQuery Datepicker for picking dates in the submit view
+* Sublime Text 2 for coding.
+* WAMP as application server platform. MyPHPAdmin was used for server-side managing
+* Wordpress 4.0 as the Content Manager System and to provide back-end access and administrator privileges
+* Bootstrap 3.2.0 as a front-end workframe
+* AngularJS as a client-side model-view-controller
+* JQuery as a client-side scripting language
+* JQuery Datepicker for picking dates in the submit view
